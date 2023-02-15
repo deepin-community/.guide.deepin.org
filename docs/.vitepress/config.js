@@ -1,23 +1,24 @@
 export default {
-  title: "标题",
+  title: "序言",
   description: "详细介绍",
 
   themeConfig: {
     sidebar: [
       {
-        text: "初级",
+        text: "目录",
         items: [
-          { text: "初级1", link: "/初级/初级1" },
-          { text: "初级2", link: "/初级/初级2" },
-          { text: "初级3", link: "/初级/初级3" },
+          { text: "目录", link: "/目录/目录" },
         ],
       },
       {
-        text: "中级",
+        text: "GNU/Linux教程",
         items: [
-          { text: "中级1", link: "/中级/中级1" },
-          { text: "中级2", link: "/中级/中级2" },
-          { text: "中级3", link: "/中级/中级3" },
+          { text: "简介", link: "/GNU-linux教程/简介" },
+          { text: "1.1.控制台基础", link: "/GNU-linux教程/1.1.控制台基础" },
+          { text: "1.2.类Unix系统", link: "/GNU-linux教程/1.2.类Unix系统" },
+          { text: "1.4.类Unix工作环境基础", link: "/GNU-linux教程/1.4.类Unix工作环境基础" },
+          { text: "1.5.简单shell命令", link: "/GNU-linux教程/1.5.简单shell命令" },
+          { text: "1.6.类Unix的文本处理", link: "/GNU-linux教程/1.6.类Unix的文本处理" },
         ],
       },
     ],
