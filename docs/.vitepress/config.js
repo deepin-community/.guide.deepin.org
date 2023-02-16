@@ -11,14 +11,25 @@ export default {
         ],
       },
       {
-        text: "GNU/Linux教程",
+        text: "deepin进阶教程",
         items: [
-          { text: "简介", link: "/GNU-linux教程/简介" },
-          { text: "1.1.控制台基础", link: "/GNU-linux教程/1.1.控制台基础" },
-          { text: "1.2.类Unix系统", link: "/GNU-linux教程/1.2.类Unix系统" },
-          { text: "1.4.类Unix工作环境基础", link: "/GNU-linux教程/1.4.类Unix工作环境基础" },
-          { text: "1.5.简单shell命令", link: "/GNU-linux教程/1.5.简单shell命令" },
-          { text: "1.6.类Unix的文本处理", link: "/GNU-linux教程/1.6.类Unix的文本处理" },
+          {
+            text: "1.GNU/Linux教程",
+            items: [
+              { text: "简介", link: "/deepin进阶教程/1.GNU-linux教程/简介" },
+              { text: "1.1.控制台基础", link: "/deepin进阶教程/1.GNU-linux教程/1.1.控制台基础" },
+              { text: "1.2.类Unix系统", link: "/deepin进阶教程/1.GNU-linux教程/1.2.类Unix系统" },
+              { text: "1.4.类Unix工作环境基础", link: "/deepin进阶教程/1.GNU-linux教程/1.4.类Unix工作环境基础" },
+              { text: "1.5.简单shell命令", link: "/deepin进阶教程/1.GNU-linux教程/1.5.简单shell命令" },
+              { text: "1.6.类Unix的文本处理", link: "/deepin进阶教程/1.GNU-linux教程/1.6.类Unix的文本处理" },1
+            ],
+          },
+        ],
+      },
+      {
+        text: "文档贡献指南",
+        items: [
+          { text: "文档贡献指南", link: "/文档贡献指南/文档贡献指南" },
         ],
       },
     ],

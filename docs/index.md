@@ -114,21 +114,21 @@ $ info make
 
 **文件名**将由双引号括起来的打印机字体进行标记，就像 "`/etc/passwd`"。对于配置文件，你可以输入下列的命令来获取它的信息。
 
-```Plain Text
+```Shell
 $ sensible-pager "/etc/passwd"
 ```
 
 
 **目录名**将由双引号括起来的打印机字体进行标记，就像 "`/etc/apt`"。你可以输入下列的命令来浏览目录的内容。
 
-```Plain Text
+```Shell
 $ mc "/etc/apt/"
 ```
 
 
 **软件包名称**将由打印机字体进行标记，就像 `vim`。你可以输入下列的命令来获取它的信息。
 
-```Plain Text
+```Shell
 $ dpkg -L vim
 $ apt-cache show vim
 $ aptitude show vim
@@ -146,7 +146,7 @@ $ sensible-browser "https://www.debian.org"
 
 **环境变量**将由双引号括起来的打印机字体进行标记，并带有 "`$`" 前缀，就像 "`$TERM`"。你可以输入下列命令来获取它的当前值。
 
-```Plain Text
+```Shell
 $ echo "$TERM"
 ```
 
