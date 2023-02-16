@@ -1,6 +1,6 @@
 export default {
-  title: "序言",
-  description: "详细介绍",
+  title: "deepin指南",
+  description: "指南的目标读者：使用deepin linux的普通用户，并且愿意更加深入了解系统的高级用法",
 
   themeConfig: {
     sidebar: [
