@@ -29,6 +29,8 @@ export default {
             items: [
               { text: "简介", link: "/deepin进阶教程/2.deepin软件包管理/简介" },
               { text: "2.1.Debian软件包管理前提", link: "/deepin进阶教程/2.deepin软件包管理/2.1.Debian软件包管理前提.md" },
+              { text: "2.2.基础软件包管理操作", link: "/deepin进阶教程/2.deepin软件包管理/2.2.基础软件包管理操作" },
+              {text: "2.3.为deepin添加来自debian或ubuntu的软件包", link: "/deepin进阶教程/2.deepin软件包管理/2.3.为deepin添加来自debian或ubuntu的软件包" },
             ],
           }
         ],
