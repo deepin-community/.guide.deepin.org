@@ -53,7 +53,7 @@ deepin基于Qt技术开发了深度桌面环境和深度控制中心，并且开
 
 你必须自己从以下原始材料查找解决方案。
 
-- Debian 网站（[https://www.debian.org）上的通用信息](https://www.debian.org）上的通用信息)  （注意：从deepin v23开始 deepin将过度到独立上游，部分debian网站提供的信息可能不适用，请注意甄别）
+- Debian 网站[https://www.debian.org 上的通用信息](https://www.debian.org)  （注意：从deepin v23开始 deepin将过度到独立上游，部分debian网站提供的信息可能不适用，请注意甄别）
 
 - `/usr/share/doc/package_name` 目录下的文档
 
@@ -61,15 +61,17 @@ deepin基于Qt技术开发了深度桌面环境和深度控制中心，并且开
 
 - GNU 风格的 info page: "dpkg -L package_name |grep '/info/'"
 
-- Debian Wiki（[https://wiki.debian.org/）用于变化和特定的话题](https://wiki.deepin.org/）用于变化和特定的话题)
+- Debian Wiki[https://wiki.debian.org/用于变化和特定的话题](https://wiki.deepin.org/)
 
-- 国际开放标准组织的 UNIX 系统主页（[http://www.unix.org/）上的单一](http://www.unix.org/）上的单一) UNIX 规范
+- deepin Wiki[https://wiki.deepin.org/用于变化和特定的话题](https://wiki.deepin.org/)
 
-- 自由的百科全书：维基百科（[https://www.wikipedia.org/）](https://www.wikipedia.org/）)
+- 国际开放标准组织的 UNIX 系统主页[http://www.unix.org 上的单一UNIX规范](http://www.unix.org/)
 
-- RFC文档（[http://www.rfc.ac.cn/](http://www.rfc.ac.cn/)）
+- 自由的百科全书：维基百科[https://www.wikipedia.org](https://www.wikipedia.org)
 
-- Linux 文档项目（TLDP，[http://tldp.org/）的](http://tldp.org/）的) HOWTO
+- RFC文档[http://www.rfc.ac.cn/](http://www.rfc.ac.cn/)
+
+- Linux 文档项目TLDP，[http://tldp.org/](http://tldp.org/) 的HOWTO
 
 ### 3.3. 排版约定
 
