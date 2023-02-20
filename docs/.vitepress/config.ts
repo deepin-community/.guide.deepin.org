@@ -1,4 +1,7 @@
-export default {
+
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: "deepin指南",
   description: "指南的目标读者：使用deepin linux的普通用户，并且愿意更加深入了解系统的高级用法",
 
@@ -21,7 +24,7 @@ export default {
               { text: "1.2.类Unix系统", link: "/deepin进阶教程/1.GNU-linux教程/1.2.类Unix系统" },
               { text: "1.4.类Unix工作环境基础", link: "/deepin进阶教程/1.GNU-linux教程/1.4.类Unix工作环境基础" },
               { text: "1.5.简单shell命令", link: "/deepin进阶教程/1.GNU-linux教程/1.5.简单shell命令" },
-              { text: "1.6.类Unix的文本处理", link: "/deepin进阶教程/1.GNU-linux教程/1.6.类Unix的文本处理" }, 1
+              { text: "1.6.类Unix的文本处理", link: "/deepin进阶教程/1.GNU-linux教程/1.6.类Unix的文本处理" }
             ],
           },
           {
@@ -47,4 +50,5 @@ export default {
       },
     ],
   },
-};
+});
+
