@@ -34,6 +34,7 @@ export default {
               {text: "2.4.高级软件包管理操作", link: "/deepin进阶教程/2.deepin软件包管理/2.4.高级软件包管理操作" },
               {text: "2.5.Debian软件包内部管理", link: "/deepin进阶教程/2.deepin软件包管理/2.5.Debian软件包内部管理" },
               {text: "2.6.从损坏的系统中恢复", link: "/deepin进阶教程/2.deepin软件包管理/2.6.从损坏的系统中恢复" },
+              {text: "2.7.软件包管理技巧", link: "/deepin进阶教程/2.deepin软件包管理/2.7.软件包管理技巧" },
             ],
           }
         ],

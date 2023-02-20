@@ -51,8 +51,6 @@ deepin基于Qt技术开发了深度桌面环境和深度控制中心，并且开
 
 你必须自己从以下原始材料查找解决方案。
 
-你必须自己从以下原始材料查找解决方案。
-
 - Debian 网站[https://www.debian.org 上的通用信息](https://www.debian.org)  （注意：从deepin v23开始 deepin将过度到独立上游，部分debian网站提供的信息可能不适用，请注意甄别）
 
 - `/usr/share/doc/package_name` 目录下的文档
