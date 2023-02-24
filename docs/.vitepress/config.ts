@@ -39,6 +39,14 @@ export default defineConfig({
               {text: "2.6.从损坏的系统中恢复", link: "/deepin进阶教程/2.deepin软件包管理/2.6.从损坏的系统中恢复" },
               {text: "2.7.软件包管理技巧", link: "/deepin进阶教程/2.deepin软件包管理/2.7.软件包管理技巧" },
             ],
+          },
+          {
+            text: "11.编程开发",
+            items: [
+              { text: "11.1.C++编程环境搭建", link: "deepin进阶教程/11.编程开发/11.1.C++编程环境搭建" },
+              { text: "11.2.golang编程环境搭建", link: "deepin进阶教程/11.编程开发/11.2.golang编程环境搭建" },
+              { text: "11.3.dotnet编程环境搭建", link: "deepin进阶教程/11.编程开发/11.3.dotnet编程环境搭建" },
+            ],
           }
         ],
       },
@@ -51,4 +59,3 @@ export default defineConfig({
     ],
   },
 });
-
