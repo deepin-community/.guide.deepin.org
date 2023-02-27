@@ -41,6 +41,19 @@ export default defineConfig({
             ],
           },
           {
+            text: "3.系统初始化",
+            items: [
+              { text: "3.1.启动过程概述", link: "/deepin进阶教程/3.系统初始化/3.1.启动过程概述" },
+              { text: "3.2.Systemd初始化", link: "/deepin进阶教程/3.系统初始化/3.2.Systemd初始化" },
+              { text: "3.3.内核消息", link: "/deepin进阶教程/3.系统初始化/3.3.内核消息" },
+              { text: "3.4.系统消息", link: "/deepin进阶教程/3.系统初始化/3.4.系统消息" },
+              { text: "3.5.系统管理", link: "/deepin进阶教程/3.系统初始化/3.5.系统管理" },
+              { text: "3.6.其他系统监控", link: "/deepin进阶教程/3.系统初始化/3.6.其他系统监控" },
+              { text: "3.7.定制Systemd", link: "/deepin进阶教程/3.系统初始化/3.7.定制Systemd" },
+              { text: "3.8.udev系统", link: "/deepin进阶教程/3.系统初始化/3.8.udev系统" },
+            ],
+          },
+          {
             text: "11.编程开发",
             items: [
               { text: "11.1.C++编程环境搭建", link: "deepin进阶教程/11.编程开发/11.1.C++编程环境搭建" },
