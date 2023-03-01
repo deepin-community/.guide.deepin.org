@@ -12,7 +12,7 @@ deepin 系统本身是一个变化的事物。这导致其文档难于及时更�
 
 ## 2. 什么是deepin
 
-deepin(原名Linux deepin)致力于为全球用户提供美观易用，安全可靠的Linux发行版。deepin项目于2008年发起，并在2009年发布了以linux deepin为名称的第一个版本。2014年4月更名为Deepin，在中国常被称为“深度操作系统“。
+deepin(原名Linux deepin)致力于为全球用户提供美观易用，安全可靠的Linux发行版。deepin项目于2008年发起，并在2009年发布了以linux deepin为名称的第一个版本。2014年4月更名为deepin，在中国常被称为“深度操作系统“。
 
 deepin基于Qt技术开发了深度桌面环境和深度控制中心，并且开发了一系列面向日常使用的深度特色应用如深度商店、深度截图、深度音乐、深度影院等。深度操作系统非常注重易用的体验和美观的设计，对于多数用户来说，它易于安装和使用，能方便地进行工作与娱乐。
 
@@ -51,7 +51,7 @@ deepin基于Qt技术开发了深度桌面环境和深度控制中心，并且开
 
 你必须自己从以下原始材料查找解决方案。
 
-- Debian 网站 [https://www.debian.org 上的通用信息](https://www.debian.org)  （注意：从deepin v23开始 deepin将过度到独立上游，部分debian网站提供的信息可能不适用，请注意甄别）
+- Debian 网站 [https://www.debian.org 上的通用信息](https://www.debian.org)  （注意：从deepin v23开始 deepin将过度到独立上游，部分Debian网站提供的信息可能不适用，请注意甄别）
 
 - `/usr/share/doc/package_name` 目录下的文档
 
