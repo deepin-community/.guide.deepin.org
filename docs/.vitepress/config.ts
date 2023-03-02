@@ -54,13 +54,23 @@ export default defineConfig({
             ],
           },
           {
+            text: "10.数据管理",
+            items: [
+              { text: "10.1.共享,拷贝和存档", link: "/deepin进阶教程/10.数据管理/10.1.共享,拷贝和存档" },
+              { text: "10.2.备份和恢复", link: "/deepin进阶教程/10.数据管理/10.2.备份和恢复" },
+            ],
+          },
+          {
             text: "11.编程开发",
             items: [
               { text: "11.1.C++编程环境搭建", link: "deepin进阶教程/11.编程开发/11.1.C++编程环境搭建" },
               { text: "11.2.golang编程环境搭建", link: "deepin进阶教程/11.编程开发/11.2.golang编程环境搭建" },
               { text: "11.3.dotnet编程环境搭建", link: "deepin进阶教程/11.编程开发/11.3.dotnet编程环境搭建" },
+              { text: "11.4.rust编程环境搭建", link: "deepin进阶教程/11.编程开发/11.4.rust编程环境搭建" },
+              { text: "11.5.DTK编程环境开发", link: "deepin进阶教程/11.编程开发/11.5.DTK编程环境开发" },
+              { text: "11.6.nodejs编程环境搭建", link: "deepin进阶教程/11.编程开发/11.6.nodejs编程环境搭建" },
             ],
-          }
+          },
         ],
       },
       {
