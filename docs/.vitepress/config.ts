@@ -58,6 +58,8 @@ export default defineConfig({
             items: [
               { text: "10.1.共享,拷贝和存档", link: "/deepin进阶教程/10.数据管理/10.1.共享,拷贝和存档" },
               { text: "10.2.备份和恢复", link: "/deepin进阶教程/10.数据管理/10.2.备份和恢复" },
+              { text: "10.3.数据安全基础", link: "/deepin进阶教程/10.数据管理/10.3.数据安全基础" },
+              { text: "10.4.Git", link: "/deepin进阶教程/10.数据管理/10.4.Git" },
             ],
           },
           {
