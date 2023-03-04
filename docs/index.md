@@ -59,7 +59,7 @@ deepin基于Qt技术开发了深度桌面环境和深度控制中心，并且开
 
 - GNU 风格的 info page: "dpkg -L package_name |grep '/info/'"
 
-- Debian Wiki [https://wiki.debian.org/用于变化和特定的话题](https://wiki.deepin.org/)
+- Debian Wiki [https://wiki.debian.org/用于变化和特定的话题](https://wiki.debian.org/)
 
 - deepin Wiki [https://wiki.deepin.org/用于变化和特定的话题](https://wiki.deepin.org/)
 
