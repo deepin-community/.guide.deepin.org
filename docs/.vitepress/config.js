@@ -72,6 +72,7 @@ export default defineConfig({
               { text: "rust编程环境搭建", link: "deepin进阶教程/11.编程开发/11.4.rust编程环境搭建" },
               { text: "DTK编程环境开发", link: "deepin进阶教程/11.编程开发/11.5.DTK编程环境开发" },
               { text: "nodejs编程环境搭建", link: "deepin进阶教程/11.编程开发/11.6.nodejs编程环境搭建" },
+ 			 { text: "Linux下使用EasyX库",link: "deepin进阶教程/11.编程开发/11.7.Linux下使用EasyX库"},
             ],
           },
         ],
