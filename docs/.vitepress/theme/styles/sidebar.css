@@ -1,0 +1,15 @@
+#VPSidebarNav > .group {
+    counter-reset: sidebar-level-1;
+}
+.VPSidebarItem.level-1 {
+    counter-reset: sidebar-level-2;
+}
+.VPSidebarItem.level-1 > .item > .VPLink > .text:before {
+    counter-increment: sidebar-level-1;
+    content: counter(sidebar-level-1) ". ";
+    counter-reset: sidebar-level-2;
+}
+.VPSidebarItem.level-2 > .item > .VPLink > .text:before {
+    counter-increment: sidebar-level-2;
+    content: counter(sidebar-level-1) "." counter(sidebar-level-2) ". ";
+}
