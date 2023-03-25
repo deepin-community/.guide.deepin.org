@@ -83,5 +83,15 @@ export default defineConfig({
         ],
       },
     ],
+    docFooter: [
+      {
+        prev: '上一页',
+        next: '下一页'
+      }
+    ],
+    darkModeSwitchLabel: '浅色/深色模式',
+    outlineTitle: '此页的大纲',
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '返回顶部'
   },
 });
