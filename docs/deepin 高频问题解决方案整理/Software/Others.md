@@ -52,7 +52,7 @@ timedatectl set-local-rtc 1
 timedatectl
 ```
 
-## 清理不需要的系统内核（待斟酌）
+## 清理不需要的系统内核
 :::tip 出处
 见 [https://bbs.deepin.org/post/253636?postId=1438575](https://bbs.deepin.org/post/253636?postId=1438575) 2楼。
 :::
@@ -68,6 +68,17 @@ sudo apt purge xxxxx
 
 ## 删除文件管理器“磁盘”中的百度网盘快捷方式
 删除`/usr/share/dde-file-manager/extensions/appEntry`目录下的 .desktop 文件。
+
+## 解决 UEngine 禁止安装来源不明的应用
+终端执行以下命令：
+```
+/usr/bin/uengine launch.sh --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity
+```
+或者安装并打开 UEngine 运行器，点击“打开 UEngine 应用列表”。
+
+在面板中打开设置，进入“安全”，开启“未知来源（允许安装来自未知来源的应用）”，点击“确认”。
+
+参考资料：[http://uengine-runner.gfdgdxi.top](http://uengine-runner.gfdgdxi.top)
 
 ## 自定义屏幕缩放
 :::tip 出处
