@@ -79,21 +79,11 @@ export default defineConfig({
       {
         text: "deepin 高频问题解决方案整理",
         items: [
-          { text: '论坛发帖提问须知', link: '/deepin 高频问题解决方案整理/1.论坛发帖提问须知'},
-          { text: '系统安装相关', link: '/deepin 高频问题解决方案整理/2.系统安装相关'},
-          {
-            text: '硬件',
-            items: [
-              { text: '常见硬件问题', link: '/deepin 高频问题解决方案整理/3.常见硬件问题'},
-            ]
-          },
-          {
-            text: '软件',
-            items: [
-              { text: '常见软件问题', link: '/deepin 高频问题解决方案整理/4.常见软件问题'},
-              { text: '更多', link: '/deepin 高频问题解决方案整理/Software/Others'}
-            ]
-          }
+                  { text: '高频问题', link: '/deepin 高频问题解决方案整理/1.frequently-asked' },
+                  { text: '常见问题', link: '/deepin 高频问题解决方案整理/2.common' },
+                  { text: '解决方案收集', link: '/deepin 高频问题解决方案整理/3.collect' },
+                  { text: '论坛发帖提问须知', link: '/deepin 高频问题解决方案整理/4.论坛发帖提问须知' },
+                  { text: '致谢', link: '/deepin 高频问题解决方案整理/thanks' }
         ]
       },
       {
