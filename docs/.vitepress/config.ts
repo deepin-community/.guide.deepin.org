@@ -77,13 +77,13 @@ export default defineConfig({
         ],
       },
       {
-        text: "deepin 高频问题解决方案整理",
+        text: "deepin高频问题解决方案整理",
         items: [
-                  { text: '高频问题', link: '/deepin 高频问题解决方案整理/1.frequently-asked' },
-                  { text: '常见问题', link: '/deepin 高频问题解决方案整理/2.common' },
-                  { text: '解决方案收集', link: '/deepin 高频问题解决方案整理/3.collect' },
-                  { text: '论坛发帖提问须知', link: '/deepin 高频问题解决方案整理/4.论坛发帖提问须知' },
-                  { text: '致谢', link: '/deepin 高频问题解决方案整理/thanks' }
+                  { text: '高频问题', link: '/deepin高频问题解决方案整理/1.frequently-asked' },
+                  { text: '常见问题', link: '/deepin高频问题解决方案整理/2.common' },
+                  { text: '解决方案收集', link: '/deepin高频问题解决方案整理/3.collect' },
+                  { text: '论坛发帖提问须知', link: '/deepin高频问题解决方案整理/4.论坛发帖提问须知' },
+                  { text: '致谢', link: '/deepin高频问题解决方案整理/thanks' }
         ]
       },
       {
