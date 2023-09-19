@@ -97,6 +97,10 @@ export default defineConfig({
       prev: '上一页',
       next: '下一页'
     },
+    editLink: {
+      pattern: 'https://github.com/deepin-community/.guide.deepin.org/edit/master/docs/:path',
+      text: '在 GitHub 上编辑此页'
+    },
     darkModeSwitchLabel: '浅色/深色模式',
     outlineTitle: '此页的大纲',
     sidebarMenuLabel: '菜单',
